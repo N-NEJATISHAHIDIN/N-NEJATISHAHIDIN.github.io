@@ -3,7 +3,7 @@ My Name is Negar. I am Computer Science PH.D student at George Mason University.
 
 
 ## Work Experience
-**Computer vision research intern. @ Humane (_May. 2023 - Aug. 2023__)**
+**Computer vision research intern. @ Humane (_May. 2023 - Aug. 2023_)**
 - Worked in the area of transfer learning and domain gap
 
 **Computer vision research intern. @ Zillow Group (_May. 2022 - Dec 2022_)**
