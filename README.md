@@ -2,13 +2,15 @@
 My Name is Negar. I am Computer Science PH.D student at George Mason University. My reaserch experties are in the area of Computer Vision, 3D scene Underestanding, and Deep Learning. I am focusing on object pose estimation, 3D reconstruction, and 3D modeling for robots. My research centers on making more generalized approaches to develop representations that allow robots to better understand the 3D world. Methods that can be applied to unseen real-world environments and can benefit multiple tasks at once. I am currently working as a graduate research assistant at Dr. Kosecka's Lab.
 
 ## Education
-- Ph.D., Computer Science | George Mason University (__Sep. 2019, now__)								       		
-- M.S., Computer Science | George Mason University (__Sep. 2019 , May. 2022__)	 			        		
-- B.S., Computer Engneering | Iran University of Science and Technology (__Sep. 2014, May 2019__)
+- Ph.D., Computer Science | George Mason University (Sep. 2019, now)								       		
+- M.S., Computer Science | George Mason University (Sep. 2019 , May. 2022)	 			        		
+- B.S., Computer Engneering | Iran University of Science and Technology (Sep. 2014, May 2019)
 
 ## Work Experience
 **Computer vision research intern. @ Humane (_May. 2023 - Aug. 2023__)**
+- Worked in the area of transfer learning and domain gap
 **Computer vision research intern. @ Zillow Group (_May. 2022 - Dec 2022_)**
+- worked in the area of Camera localization and scene underestanding
 
 
 ## Projects
