@@ -1,10 +1,6 @@
 # About
 My Name is Negar. I am Computer Science PH.D student at George Mason University. My reaserch experties are in the area of Computer Vision, 3D scene Underestanding, and Deep Learning. I am focusing on object pose estimation, 3D reconstruction, and 3D modeling for robots. My research centers on making more generalized approaches to develop representations that allow robots to better understand the 3D world. Methods that can be applied to unseen real-world environments and can benefit multiple tasks at once. I am currently working as a graduate research assistant at Dr. Kosecka's Lab.
 
-## Education
-- Ph.D., Computer Science | George Mason University (Sep. 2019, now)								       		
-- M.S., Computer Science | George Mason University (Sep. 2019 , May. 2022)	 			        		
-- B.S., Computer Engneering | Iran University of Science and Technology (Sep. 2014, May 2019)
 
 ## Work Experience
 **Computer vision research intern. @ Humane (_May. 2023 - Aug. 2023__)**
@@ -28,15 +24,11 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Education
+- Ph.D., Computer Science | George Mason University (Sep. 2019, now)								       		
+- M.S., Computer Science | George Mason University (Sep. 2019 , May. 2022)	 			        		
+- B.S., Computer Engneering | Iran University of Science and Technology (Sep. 2014, May 2019)
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
