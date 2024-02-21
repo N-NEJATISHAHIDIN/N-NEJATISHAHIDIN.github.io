@@ -1,8 +1,9 @@
 # About
 My Name is Negar. I am Computer Science PH.D student at George Mason University. My reaserch experties are in the area of Computer Vision, 3D scene Underestanding, and Deep Learning. I am focusing on object pose estimation, 3D reconstruction, and 3D modeling for robots. My research centers on making more generalized approaches to develop representations that allow robots to better understand the 3D world. Methods that can be applied to unseen real-world environments and can benefit multiple tasks at once. I am currently working as a graduate research assistant at Dr. Kosecka's Lab.
-[linkdin](https://www.linkedin.com/in/negar-nejati-65684182/)
-[scholar](https://scholar.google.com/citations?hl=en&user=QUdDLg8AAAAJ)
-[CV](/assets/projects/object_pose.pdf)
+
+[linkdin](https://www.linkedin.com/in/negar-nejati-65684182/), 
+[scholar](https://scholar.google.com/citations?hl=en&user=QUdDLg8AAAAJ), 
+[CV](https://github.com/N-NEJATISHAHIDIN/N-NEJATISHAHIDIN.github.io/blob/main/assets/Resume_NegarNejatishahidin.pdf)
 
 
 ## Work Experience
