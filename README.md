@@ -3,7 +3,7 @@ My Name is Negar. I am Computer Science PH.D student at George Mason University.
 
 [linkdin](https://www.linkedin.com/in/negar-nejati-65684182/), 
 [scholar](https://scholar.google.com/citations?hl=en&user=QUdDLg8AAAAJ), 
-[CV](https://github.com/N-NEJATISHAHIDIN/N-NEJATISHAHIDIN.github.io/blob/main/assets/Resume_NegarNejatishahidin.pdf)
+[CV](/assets/Resume_NegarNejatishahidin.pdf)
 
 
 ## Work Experience
