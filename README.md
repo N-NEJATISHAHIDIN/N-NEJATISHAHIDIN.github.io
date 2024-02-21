@@ -10,14 +10,8 @@ My Name is Negar. I am Computer Science PH.D student at George Mason University.
 - worked in the area of Camera localization and scene underestanding
 
 
-## Projects
+## Projects and Publications
 
-### Fingerspelling PoseNet
-[Publication](https://openaccess.thecvf.com/content/WACV2024W/WVLL/papers/Fayyazsanavi_Fingerspelling_PoseNet_Enhancing_Fingerspelling_Translation_With_Pose-Based_Transformer_Models_WACVW_2024_paper.pdf)
-
-We address the task of American Sign Language fingerspelling translation using videos in the wild. We exploit advances in more accurate hand pose estimation and propose a novel architecture that leverages the transformer based encoder-decoder model enabling seamless contextual word translation. The translation model is augmented by a novel loss term that accurately predicts the length of the finger-spelled word, benefiting both training and inference. We also propose a novel two-stage inference approach that re-ranks the hypotheses using the language model capabilities of the decoder.
-
-![Bike Study](/assets/projects/finger_speling.png)
 
 ### Graph-CoVis
 [Publication](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Nejatishahidin_Graph-CoVis_GNN-Based_Multi-View_Panorama_Global_Pose_Estimation_CVPRW_2023_paper.pdf)
@@ -32,6 +26,13 @@ In this paper, we address the problem of wide-baseline camera pose estimation fr
 This work proposes a novel pose estimation model for object categories that can be effectively transferred to previously unseen environments. In this work, we propose a model for pose estimation that can be trained with small amount of data and is built on the top of generic mid-level represen-tations (e.g. surface normal estimation and re-shading). In addition, we introduce a new pose estimation benchmark for commonly encountered furniture categories on challenging Active Vision Dataset.
 
 ![Bike Study](/assets/projects/object_pose.png)
+
+### Fingerspelling PoseNet
+[Publication](https://openaccess.thecvf.com/content/WACV2024W/WVLL/papers/Fayyazsanavi_Fingerspelling_PoseNet_Enhancing_Fingerspelling_Translation_With_Pose-Based_Transformer_Models_WACVW_2024_paper.pdf)
+
+We address the task of American Sign Language fingerspelling translation using videos in the wild. We exploit advances in more accurate hand pose estimation and propose a novel architecture that leverages the transformer based encoder-decoder model enabling seamless contextual word translation. The translation model is augmented by a novel loss term that accurately predicts the length of the finger-spelled word, benefiting both training and inference. We also propose a novel two-stage inference approach that re-ranks the hypotheses using the language model capabilities of the decoder.
+
+![Bike Study](/assets/projects/finger_speling.png)
 
 ### Review on 6D Object Pose Estimation
 [Publication](https://www.oajaiml.com/uploads/archivepdf/24821141.pdf)
