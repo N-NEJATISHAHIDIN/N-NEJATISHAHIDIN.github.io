@@ -6,6 +6,7 @@ My name is Negar. I am a Computer Science Ph.D. student at George Mason Universi
 [CV](/assets/Resume_NegarNejatishahidin.pdf)
 
 
+
 ## Work Experience
 **Computer vision research intern. @ [Humane](https://humane.com/) (_May. 2023 - Aug. 2023_)**
 - Worked in the area of transfer learning and addressing domain gaps
@@ -13,6 +14,8 @@ My name is Negar. I am a Computer Science Ph.D. student at George Mason Universi
 **Computer vision research intern. @ [Zillow Group](https://www.zillowgroup.com/) (_May. 2022 - Dec 2022_)**
 - Worked in the area of camera localization and scene understanding
 
+## Just for fun 
+[medium](https://medium.com/@negarnejatiuni/how-to-start-research-in-pose-estimation-a-practical-road-map-3ed654130dee)
 
 ## Projects and Publications
 
