@@ -1,23 +1,43 @@
 # About
-My name is Negar. I am a Computer Science Ph.D. student at George Mason University. My research expertise lies in the areas of Computer Vision, 3D Scene Understanding, and Deep Learning. I am focusing on object pose estimation, 3D reconstruction, and 3D modeling for robots. My research centers on developing more generalized approaches to create representations that enable robots to better understand the 3D world. These methods can be applied to unseen real-world environments and can benefit multiple tasks simultaneously. Currently, I am working as a graduate research assistant at Dr. Kosecka's Lab.
+My name is Megan(Negar). I am a Computer Science Ph.D. student at George Mason University. My research expertise lies in the areas of Computer Vision, 3D Scene Understanding, and Deep Learning. I am focusing on object pose estimation, 3D reconstruction, and 3D modeling for robots. My research centers on developing more generalized approaches to create representations that enable robots to better understand the 3D world. These methods can be applied to unseen real-world environments and can benefit multiple tasks simultaneously. Currently, I am working as a graduate research assistant at [Dr. Kosecka's Lab](https://scholar.google.com/citations?hl=en&user=sQ6l4sMAAAAJ&view_op=list_works&sortby=pubdate).
 
 [linkdin](https://www.linkedin.com/in/negar-nejati-65684182/), 
 [scholar](https://scholar.google.com/citations?hl=en&user=QUdDLg8AAAAJ), 
 [CV](/assets/Resume_NegarNejatishahidin.pdf)
 
 
-
+    
 ## Work Experience
+
+**Senior Computer Vision Engineer. @ [HP Inc.]([https://humane.com/](https://www.hp.com/us-en/home.html)) (Dec. 2024 - Present_)**
+- Fine-tuned specialized Vision--Language Models (VLMs), Small Language Models (SLMs), and Large Language Models (LLMs) for efficient on-device deployment, optimizing both performance and memory footprint.
+- Developed an internal evaluation framework to benchmark state-of-the-art VLMs and LLMs, enabling standardized performance analysis across projects.
+- Built synthetic data-generation pipelines for generative AI, leveraging external state-of-the-art models to create custom datasets.
+
 **Computer vision research intern. @ [Humane](https://humane.com/) (_May. 2023 - Aug. 2023_)**
-- Worked in the area of transfer learning and addressing domain gaps
+- Enhanced hand-tracking pipeline generalization by integrating semi-supervised learning techniques, enabling the incorporation of large-scale unlabeled data into the training process. Improved model accuracy by 13\% based on internal evaluation.
+- Designed and automated dataset creation, collection, and annotation processes for large-scale evaluation of machine learning applications.
 
 **Computer vision research intern. @ [Zillow Group](https://www.zillowgroup.com/) (_May. 2022 - Dec 2022_)**
-- Worked in the area of camera localization and scene understanding
+- Proposed the first end-to-end architecture for global camera localization, delivering an absolute improvement in rotation accuracy and comparable translation performance relative to the state of the art.
+- Supervised by [Dr. Sing Bing Kang](https://scholar.google.com/citations?user=2rzyuRQAAAAJ&hl=en).
+
+
+## Awards  
+Best paper award 2023
+Awarded by OmniCV workshop at IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
+Awarded for the paper [Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Nejatishahidin_Graph-CoVis_GNN-Based_Multi-View_Panorama_Global_Pose_Estimation_CVPRW_2023_paper.pdf).
 
 ## Just for fun 
 [medium](https://medium.com/@negarnejatiuni/how-to-start-research-in-pose-estimation-a-practical-road-map-3ed654130dee)
 
 ## Projects and Publications
+
+### Structured Spatial Reasoning with Open Vocabulary Object Detectors
+[Publication](https://arxiv.org/abs/2410.07394)
+[Publication](https://openreview.net/pdf?id=f8ApFaFW3x)
+
+Spatial reasoning is crucial for robotic tasks like fetch-and-delivery, object rearrangement, and search. Detecting and localizing objects accurately is key to success. Recent work leverages Vision-Language Models (VLMs) to improve this capability. We propose a structured probabilistic approach that combines rich 3D geometric features with open-vocabulary object detectors to enhance spatial reasoning. We evaluate our method against zero-shot VLM performance on spatial reasoning tasks using annotated clauses from the RGB-D Active Vision Dataset and the synthetic Semantic Abstraction dataset. Our method outperforms state-of-the-art open-source VLMs by over 20% in grounding spatial relations.
 
 
 ### Graph-CoVis
@@ -54,7 +74,7 @@ discussion, we will focus on how 6D object pose estimation can be used for under
 
 
 ## Education
-- Ph.D., Computer Science | George Mason University (Sep. 2019, now)								       		
+- Ph.D., Computer Science | George Mason University (Sep. 2019, may.2025)								       		
 - M.S., Computer Science | George Mason University (Sep. 2019 , May. 2022)	 			        		
 - B.S., Computer Engneering | Iran University of Science and Technology (Sep. 2014, May 2019)
 
