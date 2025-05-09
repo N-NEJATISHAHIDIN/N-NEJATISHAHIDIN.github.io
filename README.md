@@ -9,7 +9,7 @@ My name is Megan(Negar). I am a Computer Science Ph.D. student at George Mason U
     
 ## Work Experience
 
-**Senior Computer Vision Engineer. @ [HP Inc.]([https://humane.com/](https://www.hp.com/us-en/home.html)) (Dec. 2024 - Present_)**
+**Senior Computer Vision Engineer. @ [HP Inc.](https://www.hp.com/us-en/home.html) (Dec. 2024 - Present)**
 - Fine-tuned specialized Vision--Language Models (VLMs), Small Language Models (SLMs), and Large Language Models (LLMs) for efficient on-device deployment, optimizing both performance and memory footprint.
 - Developed an internal evaluation framework to benchmark state-of-the-art VLMs and LLMs, enabling standardized performance analysis across projects.
 - Built synthetic data-generation pipelines for generative AI, leveraging external state-of-the-art models to create custom datasets.
