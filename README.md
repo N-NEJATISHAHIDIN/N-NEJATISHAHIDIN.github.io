@@ -3,7 +3,7 @@ AI Research Engineer with a Ph.D. in Computer Science (Computer Vision & Deep Le
 
 [linkdin](https://www.linkedin.com/in/negar-nejati-65684182/), 
 [scholar](https://scholar.google.com/citations?hl=en&user=QUdDLg8AAAAJ), 
-[CV](/assets/Resume_NegarNejatishahidin.pdf)
+[CV](/assets/new_resume.pdf)
 
 
     
