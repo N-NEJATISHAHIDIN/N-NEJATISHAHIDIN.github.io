@@ -45,11 +45,17 @@ Awarded for the paper [Graph-CoVis: GNN-based Multi-view Panorama Global Pose Es
 
 ## Projects and Publications
 
+### Multi-Modal 3D Scene Semantic Segmentation
+To be Submitted.
+Accurate 3D semantic segmentation is essential for applications such as autonomous navigation, planning, surveying, and augmented reality, enabling systems to interpret and interact with complex surroundings. This work addresses zero-shot 3D semantic segmentation by integrating state-of-the-art 2D segmentation models with uncertainty estimation through a weighted fusion of multi-view inputs. Our method demonstrates effectiveness on real-world data.
+
+
 ### Structured Spatial Reasoning with Open Vocabulary Object Detectors
 [Publication](https://arxiv.org/abs/2410.07394)
 [Publication](https://openreview.net/pdf?id=f8ApFaFW3x)
 
 Spatial reasoning is crucial for robotic tasks like fetch-and-delivery, object rearrangement, and search. Detecting and localizing objects accurately is key to success. Recent work leverages Vision-Language Models (VLMs) to improve this capability. We propose a structured probabilistic approach that combines rich 3D geometric features with open-vocabulary object detectors to enhance spatial reasoning. We evaluate our method against zero-shot VLM performance on spatial reasoning tasks using annotated clauses from the RGB-D Active Vision Dataset and the synthetic Semantic Abstraction dataset. Our method outperforms state-of-the-art open-source VLMs by over 20% in grounding spatial relations.
+![Bike Study](/assets/projects/finger_speling.png)
 
 
 ### Graph-CoVis
