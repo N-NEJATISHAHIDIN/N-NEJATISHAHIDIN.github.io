@@ -1,5 +1,5 @@
 # About
-My name is Negar. I am a Computer Science Ph.D. student at George Mason University. My research expertise lies in the areas of Computer Vision, 3D Scene Understanding, and Deep Learning. I am focusing on object pose estimation, 3D reconstruction, and 3D modeling for robots. My research centers on developing more generalized approaches to create representations that enable robots to better understand the 3D world. These methods can be applied to unseen real-world environments and can benefit multiple tasks simultaneously. Currently, I am working as a graduate research assistant at [Dr. Kosecka's Lab](https://scholar.google.com/citations?hl=en&user=sQ6l4sMAAAAJ&view_op=list_works&sortby=pubdate).
+AI Research Engineer with a Ph.D. in Computer Science (Computer Vision & Deep Learning) and 6+ years of experience developing and scaling deep learning architectures and generative models. Skilled in model training, large-scale synthetic data generation, and safety-aware evaluation for Vision-Language Models (VLMs), Large Language Models (LLMs), and 3D vision. Extensive research in 3D scene understanding and multimodal perception. Passionate about transforming research innovations into robust, high-impact AI systems.
 
 [linkdin](https://www.linkedin.com/in/negar-nejati-65684182/), 
 [scholar](https://scholar.google.com/citations?hl=en&user=QUdDLg8AAAAJ), 
@@ -10,16 +10,28 @@ My name is Negar. I am a Computer Science Ph.D. student at George Mason Universi
 ## Work Experience
 
 **Senior Computer Vision Engineer. @ [HP Inc.](https://www.hp.com/us-en/home.html) (Dec. 2024 - Present)**
-- Fine-tuned specialized Vision--Language Models (VLMs), Small Language Models (SLMs), and Large Language Models (LLMs) for efficient on-device deployment, optimizing both performance and memory footprint.
-- Developed an internal evaluation framework to benchmark state-of-the-art VLMs and LLMs, enabling standardized performance analysis across projects.
-- Built synthetic data-generation pipelines for generative AI, leveraging external state-of-the-art models to create custom datasets.
+Research engineer for HP AI Companion-V2, a generative AI assistant integrated into HP AI PCs.
+- Fine-tuned and deployed VLMs, SLMs, and LLMs using PEFT, RLHF (Reinforcement Learning with Human Feedback), DPO,
+and distillation with quantization for edge inference; improved performance by 26% on internal benchmarks.
+- Built novel agentic GenAI-based evaluation frameworks leveraging chain-of-thought reasoning and LLMs as judges to benchmark
+LLMs and VLMs on reasoning performance and scalability.
+- Designed synthetic data pipelines with novel recursive safety checks and generative augmentation, transforming low-quality data
+into high-fidelity reusable datasets across multiple teams.
+- Research advisor for uncertainty-aware 3D room layout recovery pipeline from a single RGB image using Defusion and Gaussian
+Splash modules for feature refinement and probabilistic estimation.
 
 **Computer vision research intern. @ [Humane](https://humane.com/) (_May. 2023 - Aug. 2023_)**
-- Enhanced hand-tracking pipeline generalization by integrating semi-supervised learning techniques, enabling the incorporation of large-scale unlabeled data into the training process. Improved model accuracy by 13\% based on internal evaluation.
-- Designed and automated dataset creation, collection, and annotation processes for large-scale evaluation of machine learning applications.
-
+- Enhanced on-device hand-tracking accuracy for the Humane AI Pin using semi-supervised learning on unlabeled datasets,
+improving internal accuracy by 13%.
+- Developed a cycle-accuracy metric for 3D hand pose evaluation in semi-supervised training, improving model calibration and
+geometric consistency. Built automated evaluation and annotation pipelines, enabling scalable and repeatable benchmarking
+cycles for 3D tracking and reconstruction models.
+- Automated dataset creation and annotation pipelines, enabling scalable, repeatable evaluation cycles.
+  
 **Computer vision research intern. @ [Zillow Group](https://www.zillowgroup.com/) (_May. 2022 - Dec 2022_)**
-- Proposed the first end-to-end architecture for global camera localization, delivering an absolute improvement in rotation accuracy and comparable translation performance relative to the state of the art.
+- Developed the first end-to-end architecture for global camera localization and layout estimation with model parallelism, achieving
+superior accuracy to SOTA baselines.
+- Co-authored a Best Paper (CVPR OmniCV 2023) and a U.S. Patent (18/114,951) based on this research.
 - Supervised by [Dr. Sing Bing Kang](https://scholar.google.com/citations?user=2rzyuRQAAAAJ&hl=en).
 
 
